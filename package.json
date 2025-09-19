@@ -1,0 +1,16 @@
+{
+  "twofahelper": {
+    "name": "LLM 服务",
+    "description": "多模型的大语言模型服务中心",
+    "labels": "AI",
+    "version": "1.0.0",
+    "icon": "",
+    "author": "madrays",
+    "level": 1,
+    "v2": true,
+    "history": {
+      "v1.0.0": ""
+    }
+  }
+
+} 
