@@ -1,5 +1,5 @@
 {
-  "twofahelper": {
+  "llm_clients": {
     "name": "LLM 服务",
     "description": "多模型的大语言模型服务中心",
     "labels": "AI",
